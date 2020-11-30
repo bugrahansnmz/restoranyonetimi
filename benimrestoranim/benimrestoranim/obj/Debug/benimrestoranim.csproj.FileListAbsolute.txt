@@ -1,0 +1,17 @@
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.csprojAssemblyReference.cache
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.garson.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.giris.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.masabilgileri.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.urunlistesi.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.yonetici.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.Properties.Resources.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.csproj.GenerateResource.cache
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\bin\Debug\benimrestoranim.exe.config
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\bin\Debug\benimrestoranim.exe
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\bin\Debug\benimrestoranim.pdb
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.exe
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.pdb
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.icecek.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.tatlilar.resources
+C:\Users\BUGRA\Desktop\benimrestoranim\benimrestoranim\obj\Debug\benimrestoranim.yiyecek.resources
