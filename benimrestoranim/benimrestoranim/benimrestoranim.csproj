@@ -96,6 +96,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SINIFLAR\garson.cs" />
+    <Compile Include="SINIFLAR\yonetici.cs" />
     <EmbeddedResource Include="FORMLAR\garson.resx">
       <DependentUpon>garson.cs</DependentUpon>
     </EmbeddedResource>
@@ -142,8 +144,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="SINIFLAR\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
