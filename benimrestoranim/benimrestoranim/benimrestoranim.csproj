@@ -97,6 +97,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SINIFLAR\garson.cs" />
+    <Compile Include="SINIFLAR\Istok.cs" />
+    <Compile Include="SINIFLAR\masabilgileri.cs" />
+    <Compile Include="SINIFLAR\stok.cs" />
     <Compile Include="SINIFLAR\yonetici.cs" />
     <EmbeddedResource Include="FORMLAR\garson.resx">
       <DependentUpon>garson.cs</DependentUpon>
