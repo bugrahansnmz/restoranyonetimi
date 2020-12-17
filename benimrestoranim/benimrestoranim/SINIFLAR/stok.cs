@@ -46,6 +46,19 @@ namespace benimrestoranim.SINIFLAR
                 adet = value;
             }
         }
+        public abstract void Kaydet();
+
+
+        public abstract void Guncelle();
+
+
+        public abstract void Sil(object a);
+
+
+        public abstract DataTable ListesiGetir();
+
+
+
 
     }
 }
