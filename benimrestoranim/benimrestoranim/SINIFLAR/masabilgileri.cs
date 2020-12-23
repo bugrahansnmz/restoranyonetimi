@@ -63,7 +63,7 @@ namespace benimrestoranim.SINIFLAR
 
         public static string dosyaMasabilgileri = "masabilgileri.xml";
         public DataSet dsMasabilgileri = new DataSet("MasaBilgileriListesi");
-        public DataTable dataTableMasabilgileri = new DataTable("Masa Bilgileri");
+        public DataTable dtMasabilgileri = new DataTable("Masa Bilgileri");
 
         public masabilgileri() { DataSetOlustur(); }
 
@@ -80,20 +80,40 @@ namespace benimrestoranim.SINIFLAR
             if (System.IO.File.Exists(dosyaMasabilgileri))
             {
                 dsMasabilgileri.ReadXml(dosyaMasabilgileri);
-                dataTableMasabilgileri = dsMasabilgileri.Tables[0];
+                dtMasabilgileri = dsMasabilgileri.Tables[0];
             }
             else
             {
-                dataTableMasabilgileri.Columns.Add("TOPLAM FİYAT");
-                dataTableMasabilgileri.Columns.Add("MASA NUMARASI");
-                dataTableMasabilgileri.Columns.Add("KİŞİ SAYISI");
-                dataTableMasabilgileri.Columns.Add("MASA KONUMU");
-                dsMasabilgileri.Tables.Add(dataTableMasabilgileri);
+                dtMasabilgileri.Columns.Add("TOPLAM FİYAT");
+                dtMasabilgileri.Columns.Add("MASA NUMARASI");
+                dtMasabilgileri.Columns.Add("KİŞİ SAYISI");
+                dtMasabilgileri.Columns.Add("MASA KONUMU");
+                dsMasabilgileri.Tables.Add(dtMasabilgileri);
                 dsMasabilgileri.WriteXml(dosyaMasabilgileri, XmlWriteMode.WriteSchema);
             }
         }
+        public DataTable MasaBilgileriListesiGetir()
+        {
+            return dtMasabilgileri;
+        }
+        public void MasaBilgileriKaydet()
+        {
+            DataRow row = dtMasabilgileri.NewRow();
 
-
+            row["TOPLAM FİYAT"] = toplamfiyat;
+            row["MASA NUMARASI"] = masano;
+            row["KİŞİ SAYISI"] = kisisayisi;
+            row["MASA KONUMU"] = masakonumu;
+            dtMasabilgileri.Rows.Add(row);
+            dsMasabilgileri.WriteXml(dosyaMasabilgileri, XmlWriteMode.WriteSchema);
+        }
+        public void MasaBilgileriKaydet(DataTable dt)
+        {
+            dsMasabilgileri.Tables.Clear();
+            dtMasabilgileri = dt.Copy();
+            dsMasabilgileri.Tables.Add(dtMasabilgileri);
+            dsMasabilgileri.WriteXml(dosyaMasabilgileri, XmlWriteMode.WriteSchema);
+        }
 
 
 

@@ -57,6 +57,7 @@ namespace benimrestoranim.SINIFLAR
 
         public abstract DataTable ListesiGetir();
 
+        
 
 
 

@@ -13,7 +13,7 @@ namespace benimrestoranim.SINIFLAR
 
         DataTable ListesiGetir();
 
-        void Güncelle();
+        void Guncelle();
 
         void Sil(object a);
 
