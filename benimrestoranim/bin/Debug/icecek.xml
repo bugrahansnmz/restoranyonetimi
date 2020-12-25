@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<icecekListesi>
+  <xs:schema id="icecekListesi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="icecekListesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="icecekler">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="İSİM" type="xs:string" minOccurs="0" />
+                <xs:element name="FİYAT" type="xs:string" minOccurs="0" />
+                <xs:element name="ADET" type="xs:string" minOccurs="0" />
+                <xs:element name="SIKMA_x0020_İÇECEKLER" type="xs:string" minOccurs="0" />
+                <xs:element name="SICAK_x0020_İÇECEKLER" type="xs:string" minOccurs="0" />
+                <xs:element name="SOĞUK_x0020_İÇECEKLER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <icecekler>
+    <İSİM>AAAA</İSİM>
+    <FİYAT>3</FİYAT>
+    <ADET>3</ADET>
+    <SIKMA_x0020_İÇECEKLER>CAPPUCİNO</SIKMA_x0020_İÇECEKLER>
+    <SICAK_x0020_İÇECEKLER>VİŞNE SUYU</SICAK_x0020_İÇECEKLER>
+    <SOĞUK_x0020_İÇECEKLER>GAZOZ</SOĞUK_x0020_İÇECEKLER>
+  </icecekler>
+  <icecekler>
+    <İSİM>BBBBB</İSİM>
+    <FİYAT>22</FİYAT>
+    <ADET>8</ADET>
+    <SIKMA_x0020_İÇECEKLER>CAPPUCİNO</SIKMA_x0020_İÇECEKLER>
+    <SICAK_x0020_İÇECEKLER>ELMA SUYU</SICAK_x0020_İÇECEKLER>
+    <SOĞUK_x0020_İÇECEKLER>SU</SOĞUK_x0020_İÇECEKLER>
+  </icecekler>
+  <icecekler>
+    <İSİM>CCCCC</İSİM>
+    <FİYAT>22</FİYAT>
+    <ADET>8</ADET>
+    <SIKMA_x0020_İÇECEKLER>ESPRESSO</SIKMA_x0020_İÇECEKLER>
+    <SICAK_x0020_İÇECEKLER>ELMA SUYU</SICAK_x0020_İÇECEKLER>
+    <SOĞUK_x0020_İÇECEKLER>SU</SOĞUK_x0020_İÇECEKLER>
+  </icecekler>
+  <icecekler>
+    <İSİM>khj</İSİM>
+    <FİYAT>15</FİYAT>
+    <ADET>56</ADET>
+    <SIKMA_x0020_İÇECEKLER>LİMONATA</SIKMA_x0020_İÇECEKLER>
+    <SICAK_x0020_İÇECEKLER>ÇAY</SICAK_x0020_İÇECEKLER>
+    <SOĞUK_x0020_İÇECEKLER>SU</SOĞUK_x0020_İÇECEKLER>
+  </icecekler>
+</icecekListesi>

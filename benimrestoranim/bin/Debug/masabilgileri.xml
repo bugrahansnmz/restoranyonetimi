@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<MasaBilgileriListesi>
+  <xs:schema id="MasaBilgileriListesi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="MasaBilgileriListesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1" msdata:Locale="tr-TR">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TOPLAM_x0020_FİYAT" type="xs:string" minOccurs="0" />
+                <xs:element name="MASA_x0020_NUMARASI" type="xs:string" minOccurs="0" />
+                <xs:element name="KİŞİ_x0020_SAYISI" type="xs:string" minOccurs="0" />
+                <xs:element name="MASA_x0020_KONUMU" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <TOPLAM_x0020_FİYAT>44</TOPLAM_x0020_FİYAT>
+    <MASA_x0020_NUMARASI>3</MASA_x0020_NUMARASI>
+    <KİŞİ_x0020_SAYISI>2</KİŞİ_x0020_SAYISI>
+    <MASA_x0020_KONUMU>BAHÇE - ANTRE</MASA_x0020_KONUMU>
+  </Table1>
+</MasaBilgileriListesi>

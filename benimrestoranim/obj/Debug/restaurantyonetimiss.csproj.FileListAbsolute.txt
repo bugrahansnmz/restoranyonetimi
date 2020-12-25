@@ -1,0 +1,130 @@
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\bin\Debug\restaurantyonetimiss.exe
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.masaacform.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.masahesabiform.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.exe
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\admin\source\repos\restaurantyonetimiss\restaurantyonetimiss\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+F:\Yeni klasör (2)\bin\Debug\restaurantyonetimiss.exe.config
+F:\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.exe
+F:\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.exe
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\bin\Debug\restaurantyonetimiss.exe
+C:\Users\ASUS\Desktop\Yeni klasör (2)\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.masaacform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.masahesabiform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.masahesabiform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.exe
+C:\Users\admin\Desktop\proje\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\admin\Desktop\proje\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\admin\Desktop\proje\bin\Debug\restaurantyonetimiss.exe
+C:\Users\admin\Desktop\proje\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\bin\Debug\restaurantyonetimiss.exe
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.exe
+C:\Users\admin\Desktop\ANAPROJE SONNNNNNNNNN\obj\Debug\restaurantyonetimiss.pdb
+G:\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.exe.config
+G:\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.exe
+G:\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\ASUS\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\ASUS\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.exe
+C:\Users\ASUS\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.pdb
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.exe.config
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.exe
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.pdb
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.csprojAssemblyReference.cache
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.garsonform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.giris.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.icecekform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.cache
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.exe
+E:\tuğba dersler\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.exe
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.csprojAssemblyReference.cache
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.cache
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.exe
+C:\Users\BUGRA\Desktop\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\bin\Debug\restaurantyonetimiss.exe
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.csprojAssemblyReference.cache
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.cache
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.exe
+C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.pdb

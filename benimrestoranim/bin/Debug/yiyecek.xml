@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<YiyecekListesi>
+  <xs:schema id="YiyecekListesi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="YiyecekListesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Yiyecekler">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="İSİM" type="xs:string" minOccurs="0" />
+                <xs:element name="FİYAT" type="xs:string" minOccurs="0" />
+                <xs:element name="ADET" type="xs:string" minOccurs="0" />
+                <xs:element name="EV_x0020_YEMEKLERİ" type="xs:string" minOccurs="0" />
+                <xs:element name="VEJETERYAN_x0020_YİYECEKLER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Yiyecekler>
+    <İSİM>ıhujh</İSİM>
+    <FİYAT>4</FİYAT>
+    <ADET>5</ADET>
+    <EV_x0020_YEMEKLERİ>MANTI</EV_x0020_YEMEKLERİ>
+    <VEJETERYAN_x0020_YİYECEKLER>ZEYTİNYAĞLI BAMYA</VEJETERYAN_x0020_YİYECEKLER>
+  </Yiyecekler>
+  <Yiyecekler>
+    <İSİM>fvfb</İSİM>
+    <FİYAT>11</FİYAT>
+    <ADET>5</ADET>
+    <EV_x0020_YEMEKLERİ>TAVUK SOTE</EV_x0020_YEMEKLERİ>
+    <VEJETERYAN_x0020_YİYECEKLER>MERCİMEK KÖFTESİ</VEJETERYAN_x0020_YİYECEKLER>
+  </Yiyecekler>
+  <Yiyecekler>
+    <İSİM>gaga</İSİM>
+    <FİYAT>44</FİYAT>
+    <ADET>1</ADET>
+    <EV_x0020_YEMEKLERİ>İÇLİKÖFTE</EV_x0020_YEMEKLERİ>
+    <VEJETERYAN_x0020_YİYECEKLER>KEREVİZ SALATASI</VEJETERYAN_x0020_YİYECEKLER>
+  </Yiyecekler>
+</YiyecekListesi>
