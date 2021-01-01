@@ -51,58 +51,16 @@ namespace restaurantyonetimiss.SINIFLAR
 
        public abstract void Kaydet();
       
-        public virtual void icecekKaydet()
-        {
-
-        }
-        public virtual void tatliKaydet()
-        {
-            
-        }
-        public virtual void yiyecekKaydet()
-        {
-
-        }
+        
+        
 
         public abstract DataTable ListesiGetir();
         
-        public virtual void YiyecekListesiGetir()
-        {
-           
-        }
-        public virtual void IcecekListesiGetir()
-        {
-
-        }
-        public virtual void TatliListesiGetir()
-        {
-
-        }
+        
+       
         public abstract void Guncelle();
-        public virtual void icecekGuncelle()
-        {
-
-        }
-        public virtual void yiyecekGuncelle()
-        {
-
-        }
-        public virtual void tatliGuncelle()
-        {
-
-        }
+        
         public abstract void Sil(object a);
-        public virtual void icecekSil()
-        {
-
-        }
-        public virtual void yiyecekSil()
-        {
-
-        }
-        public virtual void tatliSil()
-        {
-
-        }
+        
     }
 }

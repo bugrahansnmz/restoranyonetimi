@@ -128,3 +128,20 @@ C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞB
 C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
 C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.exe
 C:\Users\BUGRA\Desktop\DERSLER\RESTAURANT YÖNETİMİ (SÜREYYA ŞENTÜRK- TUĞBA KILIÇ)\benimrestoranim\obj\Debug\restaurantyonetimiss.pdb
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\bin\Debug\restaurantyonetimiss.exe.config
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\bin\Debug\restaurantyonetimiss.exe
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\bin\Debug\restaurantyonetimiss.pdb
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.csprojAssemblyReference.cache
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.garsonform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.giris.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.icecekform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.masabilgileriform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.FORMLAR.tatlilarform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.FORMLAR.urunlistesiform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.Properties.Resources.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.yiyecekform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.yoneticiform.resources
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.csproj.GenerateResource.cache
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.exe
+C:\Users\BUGRA\Documents\GitHub\benimrestoranim\restoranyonetimi\benimrestoranim\obj\Debug\restaurantyonetimiss.pdb
